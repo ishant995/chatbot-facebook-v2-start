@@ -2,7 +2,7 @@
   "name": "service-module-chatbot",
   "version": "1.0.0",
   "description": "Service Module Chatbot",
-  "repository": "https://github.com/ishant995/bot_module.git",
+  "repository": "https://github.com/ishant995/chatbot-facebook-v2-start.git",
   "main": "server.js",
   "scripts": {
     "build": "tsc",
